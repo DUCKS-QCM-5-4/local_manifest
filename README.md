@@ -12,6 +12,6 @@ repo sync
 
 For Kernel 5.4
 ```
-git clone https://github.com/duckyduckG/manifest.git -b vayu-54 .repo/local_manifests
+git clone https://github.com/DUCKS-QCM-5-4/local_manifest.git -b vayu-54 .repo/local_manifests
 repo sync
 ```
